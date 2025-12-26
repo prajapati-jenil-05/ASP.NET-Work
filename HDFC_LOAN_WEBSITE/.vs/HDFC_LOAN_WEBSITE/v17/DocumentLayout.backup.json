@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|d:\\window application\\hdfc_loan_website\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|d:\\window application\\hdfc_loan_website\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|solutionrelative:home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|d:\\window application\\hdfc_loan_website\\removeloanapplication.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|solutionrelative:removeloanapplication.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|d:\\window application\\hdfc_loan_website\\updateloanapplication.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|solutionrelative:updateloanapplication.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|d:\\window application\\hdfc_loan_website\\updateloanapplication.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|solutionrelative:updateloanapplication.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|d:\\window application\\hdfc_loan_website\\removeloanapplication.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|solutionrelative:removeloanapplication.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|d:\\window application\\hdfc_loan_website\\newloanapplication.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|solutionrelative:newloanapplication.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|D:\\Window Application\\HDFC_LOAN_WEBSITE\\newloanapplication.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|solutionrelative:newloanapplication.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|d:\\window application\\hdfc_loan_website\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|d:\\window application\\hdfc_loan_website\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\HDFC_LOAN_WEBSITE|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RemoveLoanApplication.aspx.cs",
+              "DocumentMoniker": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\RemoveLoanApplication.aspx.cs",
+              "RelativeDocumentMoniker": "RemoveLoanApplication.aspx.cs",
+              "ToolTip": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\RemoveLoanApplication.aspx.cs",
+              "RelativeToolTip": "RemoveLoanApplication.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T05:18:28.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateLoanApplication.aspx",
+              "DocumentMoniker": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\UpdateLoanApplication.aspx",
+              "RelativeDocumentMoniker": "UpdateLoanApplication.aspx",
+              "ToolTip": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\UpdateLoanApplication.aspx",
+              "RelativeToolTip": "UpdateLoanApplication.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-26T05:04:17.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateLoanApplication.aspx.cs",
+              "DocumentMoniker": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\UpdateLoanApplication.aspx.cs",
+              "RelativeDocumentMoniker": "UpdateLoanApplication.aspx.cs",
+              "ToolTip": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\UpdateLoanApplication.aspx.cs",
+              "RelativeToolTip": "UpdateLoanApplication.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T05:06:08.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Home.aspx.cs",
+              "ToolTip": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\Home.aspx.cs",
+              "RelativeToolTip": "Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T05:00:56.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\Home.aspx",
+              "RelativeDocumentMoniker": "Home.aspx",
+              "ToolTip": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\Home.aspx",
+              "RelativeToolTip": "Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-26T04:59:02.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RemoveLoanApplication.aspx",
+              "DocumentMoniker": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\RemoveLoanApplication.aspx",
+              "RelativeDocumentMoniker": "RemoveLoanApplication.aspx",
+              "ToolTip": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\RemoveLoanApplication.aspx",
+              "RelativeToolTip": "RemoveLoanApplication.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-26T05:17:45.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewLoanApplication.aspx.cs",
+              "DocumentMoniker": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\NewLoanApplication.aspx.cs",
+              "RelativeDocumentMoniker": "NewLoanApplication.aspx.cs",
+              "ToolTip": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\NewLoanApplication.aspx.cs",
+              "RelativeToolTip": "NewLoanApplication.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T05:06:00.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewLoanApplication.aspx",
+              "DocumentMoniker": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\NewLoanApplication.aspx",
+              "RelativeDocumentMoniker": "NewLoanApplication.aspx",
+              "ToolTip": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\NewLoanApplication.aspx",
+              "RelativeToolTip": "NewLoanApplication.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-26T04:42:28.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "login.aspx",
+              "DocumentMoniker": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\login.aspx",
+              "RelativeDocumentMoniker": "login.aspx",
+              "ToolTip": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\login.aspx",
+              "RelativeToolTip": "login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-26T04:44:28.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\login.aspx.cs",
+              "RelativeDocumentMoniker": "login.aspx.cs",
+              "ToolTip": "D:\\Window Application\\HDFC_LOAN_WEBSITE\\login.aspx.cs",
+              "RelativeToolTip": "login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T04:45:55.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
