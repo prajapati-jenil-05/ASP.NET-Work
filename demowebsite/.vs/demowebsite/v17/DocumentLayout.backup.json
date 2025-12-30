@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Window Application\\ASP.NET-Work\\demowebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2822BD-D7AA-2222-174B-D02B6C220143}|D:\\Window Application\\ASP.NET-Work\\demowebsite1|d:\\window application\\asp.net-work\\demowebsite1\\default3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2822BD-D7AA-2222-174B-D02B6C220143}|D:\\Window Application\\ASP.NET-Work\\demowebsite1|d:\\window application\\asp.net-work\\demowebsite1\\default3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default3.aspx.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\demowebsite1\\Default3.aspx.cs",
+              "RelativeDocumentMoniker": "..\\demowebsite1\\Default3.aspx.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\demowebsite1\\Default3.aspx.cs",
+              "RelativeToolTip": "..\\demowebsite1\\Default3.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T05:43:49.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default3.aspx",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\demowebsite1\\Default3.aspx",
+              "RelativeDocumentMoniker": "..\\demowebsite1\\Default3.aspx",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\demowebsite1\\Default3.aspx",
+              "RelativeToolTip": "..\\demowebsite1\\Default3.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T05:41:52.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>https://picsum.photos/200</ImageUrl>
+		<NavigateUrl>https://www.ajio.com</NavigateUrl>
+		<AlternatText>AJIO</AlternatText>
+		<Impression>5</Impression>
+		<Keywords>Shopping,ajio,online</Keywords>
+	</Ad>
+	<Ad>
+		<ImageUrl>https://picsum.photos/200</ImageUrl>
+		<NavigateUrl>https://www.ajio.com</NavigateUrl>
+		<AlternatText>AJIO</AlternatText>
+		<Impression>5</Impression>
+		<Keywords>Shopping,ajio,online</Keywords>
+	</Ad>
+	<Ad>
+		<ImageUrl>https://picsum.photos/200</ImageUrl>
+		<NavigateUrl>https://www.ajio.com</NavigateUrl>
+		<AlternatText>AJIO</AlternatText>
+		<Impression>5</Impression>
+		<Keywords>Shopping,ajio,online</Keywords>
+	</Ad>
+	<Ad>
+		<ImageUrl>https://picsum.photos/200</ImageUrl>
+		<NavigateUrl>https://www.ajio.com</NavigateUrl>
+		<AlternatText>AJIO</AlternatText>
+		<Impression>5</Impression>
+		<Keywords>Shopping,ajio,online</Keywords>
+	</Ad>
+	<Ad>
+		<ImageUrl>https://picsum.photos/200</ImageUrl>
+		<NavigateUrl>https://www.google.com</NavigateUrl>
+		<AlternatText>AJIO</AlternatText>
+		<Impression>5</Impression>
+		<Keywords>Shopping,ajio,online</Keywords>
+	</Ad>
+</Advertisements>
