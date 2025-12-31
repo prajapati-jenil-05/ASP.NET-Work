@@ -23,7 +23,6 @@
                             <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="Enter you name!" ControlToValidate="txtName" ForeColor="Red" SetFocusOnError="True"></asp:RequiredFieldValidator>
                         </td>
                     </tr>
-
                     <tr>
                         <td>
                             <asp:Label ID="lblAge" runat="server" Text="Age: " />
@@ -35,7 +34,6 @@
                             <asp:RangeValidator ID="RangeValidator1" runat="server" ErrorMessage="Age must be greater than 18!" ControlToValidate="txtAge" ForeColor="Red" MaximumValue="40" MinimumValue="18" SetFocusOnError="True" Type="Integer"></asp:RangeValidator>
                         </td>
                     </tr>
-
                     <tr>
                         <td>
                             <asp:Label ID="lblEmail" runat="server" Text="Email: " />
@@ -47,7 +45,6 @@
                             <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ErrorMessage="Enter valid email address!" ControlToValidate="txtEmail" ForeColor="Red" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" SetFocusOnError="True"></asp:RegularExpressionValidator>
                         </td>
                     </tr>
-
                     <tr>
                         <td>
                             <asp:Label ID="lblPasswd" runat="server" Text="Password: " />
@@ -59,7 +56,6 @@
                             <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Enter the password!" ControlToValidate="txtPasswd" ForeColor="Red" SetFocusOnError="True"></asp:RequiredFieldValidator>
                         </td>
                     </tr>
-
                     <tr>
                         <td>
                             <asp:Label ID="lblConfPasswd" runat="server" Text="Confirm Password: " />
