@@ -21,7 +21,7 @@ public partial class login : System.Web.UI.Page
         else
         {
             Session["Email"] = txtEmail.Text; // to store the email in session variable
-            Response.Redirect("Home.aspx"); // to move to the another page
+            Response.Redirect("HomePage.aspx"); // to move to the another page
         }
     }
 
