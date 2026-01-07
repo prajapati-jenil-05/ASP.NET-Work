@@ -9,7 +9,14 @@ public partial class clientside : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-
+        if (Request.Cookies["username"] != null)
+        {
+            lblUsername.Text = "Welcome: " + Request.Cookies["username"].Value;
+        }
+        else
+        {
+            lblUsername.Text = "Username not found!";
+        }
     }
 
     protected void txtViewState_TextChanged(object sender, EventArgs e)

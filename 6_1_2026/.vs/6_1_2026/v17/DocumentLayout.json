@@ -1,18 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Window Application\\6_1_2026\\",
+  "WorkspaceRootPath": "D:\\Window Application\\ASP.NET-Work\\6_1_2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\6_1_2026|d:\\window application\\6_1_2026\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\6_1_2026|solutionrelative:loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\ASP.NET-Work\\6_1_2026|d:\\window application\\asp.net-work\\6_1_2026\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\ASP.NET-Work\\6_1_2026|solutionrelative:loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\6_1_2026|d:\\window application\\6_1_2026\\clientside.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\6_1_2026|solutionrelative:clientside.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\ASP.NET-Work\\6_1_2026|d:\\window application\\asp.net-work\\6_1_2026\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\ASP.NET-Work\\6_1_2026|solutionrelative:loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\6_1_2026|d:\\window application\\6_1_2026\\clientside.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\6_1_2026|solutionrelative:clientside.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__WINDOW_APPLICATION_ASP.NET_WORK_6_1_2026_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.RAM.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\ASP.NET-Work\\6_1_2026|d:\\window application\\asp.net-work\\6_1_2026\\clientside.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\ASP.NET-Work\\6_1_2026|solutionrelative:clientside.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\ASP.NET-Work\\6_1_2026|d:\\window application\\asp.net-work\\6_1_2026\\clientside.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\ASP.NET-Work\\6_1_2026|solutionrelative:clientside.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +37,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginPage.aspx",
-              "DocumentMoniker": "D:\\Window Application\\6_1_2026\\LoginPage.aspx",
-              "RelativeDocumentMoniker": "LoginPage.aspx",
-              "ToolTip": "D:\\Window Application\\6_1_2026\\LoginPage.aspx",
-              "RelativeToolTip": "LoginPage.aspx",
+              "DocumentIndex": 2,
+              "Title": "dbo.RAM [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__WINDOW_APPLICATION_ASP.NET_WORK_6_1_2026_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.RAM.sql",
+              "ToolTip": "dbo.RAM [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-07T05:19:13.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clientside.aspx",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\6_1_2026\\clientside.aspx",
+              "RelativeDocumentMoniker": "clientside.aspx",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\6_1_2026\\clientside.aspx",
+              "RelativeToolTip": "clientside.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-01-06T05:31:54.936Z",
+              "WhenOpened": "2026-01-07T05:14:17.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clientside.aspx.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\6_1_2026\\clientside.aspx.cs",
+              "RelativeDocumentMoniker": "clientside.aspx.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\6_1_2026\\clientside.aspx.cs",
+              "RelativeToolTip": "clientside.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T05:14:19.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "clientside.aspx.cs",
-              "DocumentMoniker": "D:\\Window Application\\6_1_2026\\clientside.aspx.cs",
-              "RelativeDocumentMoniker": "clientside.aspx.cs",
-              "ToolTip": "D:\\Window Application\\6_1_2026\\clientside.aspx.cs",
-              "RelativeToolTip": "clientside.aspx.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAtwDgAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T05:11:48.633Z",
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\6_1_2026\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "LoginPage.aspx",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\6_1_2026\\LoginPage.aspx",
+              "RelativeToolTip": "LoginPage.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-07T04:51:09.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "clientside.aspx",
-              "DocumentMoniker": "D:\\Window Application\\6_1_2026\\clientside.aspx",
-              "RelativeDocumentMoniker": "clientside.aspx",
-              "ToolTip": "D:\\Window Application\\6_1_2026\\clientside.aspx",
-              "RelativeToolTip": "clientside.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-01-06T04:51:59.953Z",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\6_1_2026\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "LoginPage.aspx.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\6_1_2026\\LoginPage.aspx.cs",
+              "RelativeToolTip": "LoginPage.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T04:51:13.973Z",
               "EditorCaption": ""
             }
           ]

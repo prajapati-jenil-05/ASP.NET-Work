@@ -9,6 +9,8 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <center>
+                <asp:Label ID="lblUsername" runat="server" Text=""></asp:Label></center>
             View State Example
             <br />
             <asp:TextBox ID="txtViewState" runat="server" OnTextChanged="txtViewState_TextChanged"></asp:TextBox>

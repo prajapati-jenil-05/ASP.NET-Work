@@ -35,7 +35,7 @@
                     </tr>
                     <tr>
                         <td colspan="2">
-                            <asp:Button ID="btnSignIn" runat="server" Text="Sign in" />
+                            <asp:Button ID="btnSignIn" runat="server" Text="Sign in" OnClick="btnSignIn_Click" />
                             &nbsp;   
                 <asp:Button ID="btnReset" runat="server" Text="Reset" />
                         </td>
