@@ -25,7 +25,7 @@ public partial class LoginPage : System.Web.UI.Page
         {
             Session["username"] = txtEmail.Text;
             Response.Cookies["username"].Value = txtEmail.Text;
-            Response.Cookies["username"].Expires = DateTime.Now.AddMinutes(3);
+            Response.Cookies["username"].Expires = DateTime.Now.AddSeconds(3);
             Response.Redirect("clientside.aspx");
         }
         else

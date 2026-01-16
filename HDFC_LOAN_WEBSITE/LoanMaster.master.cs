@@ -44,4 +44,9 @@ public partial class LoanMaster : System.Web.UI.MasterPage
     {
         Response.Redirect("RemoveAppPage.aspx");
     }
+
+    protected void lbtnViewAll_Click(object sender, EventArgs e)
+    {
+        Response.Redirect("ViewAll.aspx");
+    }
 }

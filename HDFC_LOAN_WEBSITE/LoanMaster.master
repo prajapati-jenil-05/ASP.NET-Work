@@ -26,18 +26,22 @@
             <table>
                 <tr>
                     <td>
-                        <asp:LinkButton ID="lbtnHome" runat="server" OnClick="lbtnHome_Click">Home</asp:LinkButton></td>
+                        <asp:LinkButton ID="lbtnHome" runat="server" OnClick="lbtnHome_Click" CausesValidation="False">Home</asp:LinkButton></td>
                     <td></td>
                     <td>
-                        <asp:LinkButton ID="lbtnNewApp" runat="server" OnClick="btnNewApp_Click">New Application</asp:LinkButton>
+                        <asp:LinkButton ID="lbtnNewApp" runat="server" OnClick="btnNewApp_Click" CausesValidation="False">New Application</asp:LinkButton>
                     </td>
                     <td></td>
                     <td>
-                        <asp:LinkButton ID="lbtnUpdtApp" runat="server" OnClick="lbtnUpdtApp_Click">Update Application</asp:LinkButton>
+                        <asp:LinkButton ID="lbtnUpdtApp" runat="server" OnClick="lbtnUpdtApp_Click" CausesValidation="False">Update Application</asp:LinkButton>
                     </td>
                     <td></td>
                     <td>
-                        <asp:LinkButton ID="lbtnRemoveApp" runat="server" OnClick="lbtnRemoveApp_Click">Remove Application</asp:LinkButton>
+                        <asp:LinkButton ID="lbtnRemoveApp" runat="server" OnClick="lbtnRemoveApp_Click" CausesValidation="False">Remove Application</asp:LinkButton>
+                    </td>
+                    <td></td>
+                    <td>
+                        <asp:LinkButton ID="lbtnViewAll" runat="server" CausesValidation="False" OnClick="lbtnViewAll_Click">View All Application</asp:LinkButton>
                     </td>
                 </tr>
             </table>

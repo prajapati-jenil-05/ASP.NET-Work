@@ -49,7 +49,7 @@
                 <tr>
                     <td>Account Holder Name: </td>
                     <td>
-                        <asp:TextBox ID="txtSavingAcctName" runat="server"></asp:TextBox>
+                        <asp:TextBox ID="txtSavingAcctName" runat="server" AutoPostBack="True"></asp:TextBox>
                     </td>
                 </tr>
                 <tr>

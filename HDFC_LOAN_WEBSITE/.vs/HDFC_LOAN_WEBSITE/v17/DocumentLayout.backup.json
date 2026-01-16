@@ -3,16 +3,35 @@
   "WorkspaceRootPath": "D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE|d:\\window application\\asp.net-work\\hdfc_loan_website\\newapppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\newapppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE|solutionrelative:newapppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\newapppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE|solutionrelative:newapppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__WINDOW_APPLICATION_ASP.NET_WORK_HDFC_LOAN_WEBSITE_APP_DATA_HDFC_DATABASE.MDF/True/SqlTable/dbo.Account.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE|d:\\window application\\asp.net-work\\hdfc_loan_website\\loanmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE|solutionrelative:loanmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE|d:\\window application\\asp.net-work\\hdfc_loan_website\\newloanapplication.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE|solutionrelative:newloanapplication.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE|d:\\window application\\asp.net-work\\hdfc_loan_website\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\loanmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE|solutionrelative:loanmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE|d:\\window application\\asp.net-work\\hdfc_loan_website\\updateapppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E254D8DA-F7B8-4CAD-9CE0-3121A38FF1AC}|D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE|solutionrelative:updateapppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +49,82 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Account [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__WINDOW_APPLICATION_ASP.NET_WORK_HDFC_LOAN_WEBSITE_APP_DATA_HDFC_DATABASE.MDF/True/SqlTable/dbo.Account.sql",
+              "ToolTip": "dbo.Account [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-16T06:04:46.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoanMaster.master.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\LoanMaster.master.cs",
+              "RelativeDocumentMoniker": "LoanMaster.master.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\LoanMaster.master.cs",
+              "RelativeToolTip": "LoanMaster.master.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:42:34.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewLoanApplication.aspx",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\NewLoanApplication.aspx",
+              "RelativeDocumentMoniker": "NewLoanApplication.aspx",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\NewLoanApplication.aspx",
+              "RelativeToolTip": "NewLoanApplication.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-16T05:36:07.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateAppPage.aspx",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\UpdateAppPage.aspx",
+              "RelativeDocumentMoniker": "UpdateAppPage.aspx",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\UpdateAppPage.aspx",
+              "RelativeToolTip": "UpdateAppPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-16T04:44:18.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoanMaster.master",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\LoanMaster.master",
+              "RelativeDocumentMoniker": "LoanMaster.master",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\LoanMaster.master",
+              "RelativeToolTip": "LoanMaster.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-09T04:44:18.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NewAppPage.aspx.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\NewAppPage.aspx.cs",
+              "RelativeDocumentMoniker": "NewAppPage.aspx.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\NewAppPage.aspx.cs",
+              "RelativeToolTip": "NewAppPage.aspx.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T04:41:36.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "NewAppPage.aspx",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\NewAppPage.aspx",
               "RelativeDocumentMoniker": "NewAppPage.aspx",
@@ -43,27 +137,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "login.aspx.cs",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\login.aspx.cs",
               "RelativeDocumentMoniker": "login.aspx.cs",
               "ToolTip": "D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\login.aspx.cs",
               "RelativeToolTip": "login.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T05:09:38.276Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "login.aspx",
-              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\login.aspx",
-              "RelativeDocumentMoniker": "login.aspx",
-              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\HDFC_LOAN_WEBSITE\\login.aspx",
-              "RelativeToolTip": "login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-01-02T05:08:45.916Z"
+              "WhenOpened": "2026-01-02T05:09:38.276Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -12,7 +12,7 @@
         <tr>
             <td>Saving Account No.: </td>
             <td>
-                <asp:TextBox ID="txtSavingAcctNo" runat="server"></asp:TextBox>
+                <asp:TextBox ID="txtSavingAcctNo" runat="server" AutoPostBack="True" OnTextChanged="txtSavingAcctNo_TextChanged"></asp:TextBox>
             </td>
             <td>
                 <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Account No. Required" ControlToValidate="txtSavingAcctNo" ForeColor="Red" SetFocusOnError="True"></asp:RequiredFieldValidator>
@@ -21,7 +21,7 @@
         <tr>
             <td>Account Holder Name: </td>
             <td>
-                <asp:TextBox ID="txtSavingAcctName" runat="server"></asp:TextBox>
+                <asp:TextBox ID="txtSavingAcctName" runat="server" AutoPostBack="True"></asp:TextBox>
             </td>
             <td>
                 <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="Account Name Required" ControlToValidate="txtSavingAcctName" ForeColor="Red" SetFocusOnError="True"></asp:RequiredFieldValidator>
@@ -68,7 +68,7 @@
                 <asp:TextBox ID="txtLoanAmmount" runat="server"></asp:TextBox>
             </td>
             <td class="auto-style1">
-                <asp:RangeValidator ID="RangeValidator1" runat="server" ErrorMessage="Amount must be 50000 to 200000" ControlToValidate="txtLoanAmmount" ForeColor="Red" SetFocusOnError="True"></asp:RangeValidator>
+                <asp:RangeValidator ID="RangeValidator1" runat="server" ErrorMessage="Amount must be 50000 to 200000" ControlToValidate="txtLoanAmmount" ForeColor="Red" SetFocusOnError="True" MaximumValue="200000" MinimumValue="50000" Type="Integer"></asp:RangeValidator>
             </td>
         </tr>
         <tr>
@@ -91,6 +91,6 @@
         </tr>
     </table>
     <center>
-        <asp:Button ID="btnSubmit" runat="server" Text="Submit Application" /></center>
+        <asp:Button ID="btnSubmit" runat="server" Text="Submit Application" OnClick="btnSubmit_Click" /></center>
 </asp:Content>
 
