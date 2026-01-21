@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Window Application\\ASP.NET-Work\\6_1_2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\ASP.NET-Work\\6_1_2026|D:\\Window Application\\ASP.NET-Work\\6_1_2026\\clientside.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\ASP.NET-Work\\6_1_2026|d:\\window application\\asp.net-work\\6_1_2026\\clientside.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\ASP.NET-Work\\6_1_2026|solutionrelative:clientside.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\ASP.NET-Work\\6_1_2026|d:\\window application\\asp.net-work\\6_1_2026\\clientside.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\ASP.NET-Work\\6_1_2026|D:\\Window Application\\ASP.NET-Work\\6_1_2026\\clientside.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{78A62153-FB34-49BF-95F9-BAA5AEB3B697}|D:\\Window Application\\ASP.NET-Work\\6_1_2026|solutionrelative:clientside.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -52,7 +52,6 @@
               "RelativeDocumentMoniker": "clientside.aspx",
               "ToolTip": "D:\\Window Application\\ASP.NET-Work\\6_1_2026\\clientside.aspx",
               "RelativeToolTip": "clientside.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2026-01-07T05:14:17.46Z",
               "EditorCaption": ""
@@ -65,7 +64,7 @@
               "RelativeDocumentMoniker": "clientside.aspx.cs",
               "ToolTip": "D:\\Window Application\\ASP.NET-Work\\6_1_2026\\clientside.aspx.cs",
               "RelativeToolTip": "clientside.aspx.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwC0AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T05:14:19.385Z",
               "EditorCaption": ""

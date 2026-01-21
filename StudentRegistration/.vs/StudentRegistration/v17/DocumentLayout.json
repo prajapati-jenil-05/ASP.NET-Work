@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Window Application\\ASP.NET-Work\\StudentRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4746F3B6-DEEB-4425-AFA6-16E927BD08B1}|StudentRegistration.csproj|d:\\window application\\asp.net-work\\studentregistration\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4746F3B6-DEEB-4425-AFA6-16E927BD08B1}|StudentRegistration.csproj|solutionrelative:views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4746F3B6-DEEB-4425-AFA6-16E927BD08B1}|StudentRegistration.csproj|d:\\window application\\asp.net-work\\studentregistration\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4746F3B6-DEEB-4425-AFA6-16E927BD08B1}|StudentRegistration.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4746F3B6-DEEB-4425-AFA6-16E927BD08B1}|StudentRegistration.csproj|d:\\window application\\asp.net-work\\studentregistration\\dbcontext\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4746F3B6-DEEB-4425-AFA6-16E927BD08B1}|StudentRegistration.csproj|solutionrelative:dbcontext\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4746F3B6-DEEB-4425-AFA6-16E927BD08B1}|StudentRegistration.csproj|d:\\window application\\asp.net-work\\studentregistration\\models\\student_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4746F3B6-DEEB-4425-AFA6-16E927BD08B1}|StudentRegistration.csproj|solutionrelative:models\\student_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "student_model.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\StudentRegistration\\Models\\student_model.cs",
+              "RelativeDocumentMoniker": "Models\\student_model.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\StudentRegistration\\Models\\student_model.cs",
+              "RelativeToolTip": "Models\\student_model.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:30:16.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "studentdb.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\StudentRegistration\\DBCONTEXT\\studentdb.cs",
+              "RelativeDocumentMoniker": "DBCONTEXT\\studentdb.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\StudentRegistration\\DBCONTEXT\\studentdb.cs",
+              "RelativeToolTip": "DBCONTEXT\\studentdb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:32:09.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\StudentRegistration\\Views\\Student\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\AddStudent.cshtml",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\StudentRegistration\\Views\\Student\\AddStudent.cshtml",
+              "RelativeToolTip": "Views\\Student\\AddStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T05:30:41.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\StudentRegistration\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\StudentRegistration\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:29:58.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

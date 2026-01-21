@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|d:\\window application\\asp.net-work\\mvcdemo\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|d:\\window application\\asp.net-work\\mvcdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|d:\\window application\\asp.net-work\\mvcdemo\\dbcontext\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:dbcontext\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|d:\\window application\\asp.net-work\\mvcdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,46 +34,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AddStudent.cshtml",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Views\\student\\AddStudent.cshtml",
               "RelativeDocumentMoniker": "Views\\student\\AddStudent.cshtml",
               "ToolTip": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Views\\student\\AddStudent.cshtml",
               "RelativeToolTip": "Views\\student\\AddStudent.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T06:00:54.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T05:16:24.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "studentController.cs",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Controllers\\studentController.cs",
               "RelativeDocumentMoniker": "Controllers\\studentController.cs",
               "ToolTip": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Controllers\\studentController.cs",
               "RelativeToolTip": "Controllers\\studentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T05:58:00.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T05:58:00.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "studentdb.cs",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\DBCONTEXT\\studentdb.cs",
               "RelativeDocumentMoniker": "DBCONTEXT\\studentdb.cs",
               "ToolTip": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\DBCONTEXT\\studentdb.cs",
               "RelativeToolTip": "DBCONTEXT\\studentdb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T05:53:22.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "student.cs",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Models\\student.cs",
               "RelativeDocumentMoniker": "Models\\student.cs",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Models\\student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T05:42:55.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T05:42:55.409Z"
             }
           ]
         }

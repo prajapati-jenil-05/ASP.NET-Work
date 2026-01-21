@@ -3,44 +3,20 @@
   "WorkspaceRootPath": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\dbcontext\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:dbcontext\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|d:\\window application\\asp.net-work\\mvcdemo\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|d:\\window application\\asp.net-work\\mvcdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|d:\\window application\\asp.net-work\\mvcdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|d:\\window application\\asp.net-work\\mvcdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|d:\\window application\\asp.net-work\\mvcdemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|d:\\window application\\asp.net-work\\mvcdemo\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|d:\\window application\\asp.net-work\\mvcdemo\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|d:\\window application\\asp.net-work\\mvcdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|d:\\window application\\asp.net-work\\mvcdemo\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|d:\\window application\\asp.net-work\\mvcdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,15 +34,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AddStudent.cshtml",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Views\\student\\AddStudent.cshtml",
               "RelativeDocumentMoniker": "Views\\student\\AddStudent.cshtml",
               "ToolTip": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Views\\student\\AddStudent.cshtml",
               "RelativeToolTip": "Views\\student\\AddStudent.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T05:00:21.812Z",
+              "WhenOpened": "2026-01-20T05:16:24.479Z",
               "EditorCaption": ""
             },
             {
@@ -77,114 +53,35 @@
               "RelativeDocumentMoniker": "Controllers\\studentController.cs",
               "ToolTip": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Controllers\\studentController.cs",
               "RelativeToolTip": "Controllers\\studentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T04:55:01.856Z",
+              "WhenOpened": "2026-01-13T05:58:00.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "student.cs",
-              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Models\\student.cs",
-              "RelativeDocumentMoniker": "Models\\student.cs",
-              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Models\\student.cs",
-              "RelativeToolTip": "Models\\student.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "studentdb.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\DBCONTEXT\\studentdb.cs",
+              "RelativeDocumentMoniker": "DBCONTEXT\\studentdb.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\DBCONTEXT\\studentdb.cs",
+              "RelativeToolTip": "DBCONTEXT\\studentdb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T04:48:24.376Z",
+              "WhenOpened": "2026-01-13T05:53:22.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T04:47:30.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T04:47:02.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
-              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Title": "student.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Models\\student.cs",
+              "RelativeDocumentMoniker": "Models\\student.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Models\\student.cs",
+              "RelativeToolTip": "Models\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T04:45:17.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
-              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T04:44:52.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T04:44:31.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T04:44:04.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
-              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T04:44:21.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T05:42:55.409Z"
             }
           ]
         }
