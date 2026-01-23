@@ -185,6 +185,7 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Student\AddStudent.cshtml" />
+    <Content Include="Views\Student\DeleteStudent.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

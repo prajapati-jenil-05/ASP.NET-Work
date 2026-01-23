@@ -26,6 +26,21 @@ namespace StudentRegistration.DBCONTEXT
             cmd.ExecuteNonQuery(); 
             con.Close();
         }
+        public void DELETESTUDENT(student_model S)
+        {
+            SqlConnection con = new SqlConnection(
+                "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=D:\\Window Application\\ASP.NET-Work\\StudentRegistration\\App_Data\\Database1.mdf;Integrated Security=True"
+            );
+
+            SqlCommand cmd = new SqlCommand(
+                "delete from STUDENT where studentid = @id", con
+            );
+
+            cmd.Parameters.AddWithValue("@id", S.Id);
+            con.Open();
+            cmd.ExecuteNonQuery(); 
+            con.Close();
+        }
 
     }
 }

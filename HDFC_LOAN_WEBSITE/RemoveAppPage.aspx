@@ -9,7 +9,7 @@
         <td>
             <asp:TextBox ID="txtLoanNo" runat="server"></asp:TextBox></td>
         <td>
-            <asp:Button ID="btnGetLoanDetails" runat="server" Text="Get Loan Details" /></td>
+            <asp:Button ID="btnGetLoanDetails" runat="server" Text="Get Loan Details" OnClick="btnGetLoanDetails_Click" /></td>
     </tr>
     <tr>
         <td>Saving Account No.: </td>
@@ -65,6 +65,6 @@
     </tr>
 </table>
 <center>
-    <asp:Button ID="btnSubmit" runat="server" Text="Remove Application" /></center>
+    <asp:Button ID="btnSubmit" runat="server" Text="Remove Application" OnClick="btnSubmit_Click" /></center>
 </asp:Content>
 

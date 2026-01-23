@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\dbcontext\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|d:\\window application\\asp.net-work\\mvcdemo\\dbcontext\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:dbcontext\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|d:\\window application\\asp.net-work\\mvcdemo\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|D:\\Window Application\\ASP.NET-Work\\MVCDEMO\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{36665BB6-9E7E-4F82-8A82-5A3B44B2D055}|MVCDEMO.csproj|solutionrelative:views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -42,8 +42,7 @@
               "RelativeToolTip": "Views\\student\\AddStudent.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-20T05:16:24.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T05:16:24.479Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "Controllers\\studentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T05:58:00.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T05:58:00.148Z"
             },
             {
               "$type": "Document",

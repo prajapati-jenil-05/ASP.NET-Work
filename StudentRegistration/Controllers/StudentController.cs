@@ -30,5 +30,22 @@ namespace StudentRegistration.Controllers
             }
             return View(s1);
         }
+        [HttpGet]
+        public ActionResult DeleteStudent()
+        {
+            return View(new student_model());
+        }
+        [HttpPost]
+        public ActionResult DeleteStudent(student_model s1)
+        {
+            if (ModelState.IsValid)
+            {
+                db.DELETESTUDENT(s1);
+                ViewBag.Message = "Student Deleted Successfully!";
+                ModelState.Clear();
+                return View(new student_model());
+            }
+            return View(s1);
+        }
     }
 }

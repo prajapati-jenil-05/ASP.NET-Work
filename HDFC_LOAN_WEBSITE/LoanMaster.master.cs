@@ -11,24 +11,24 @@ public partial class LoanMaster : System.Web.UI.MasterPage
     {
         if (Session["Email"] == null)
         {
-            Response.Redirect("login.aspx"); // to move to the another page
+            Response.Redirect("login.aspx");
         }
-        string email = Session["Email"].ToString(); // to retrieve the email from session variable
-        lblUser.Text = email; // to display the welcome message
+        string email = Session["Email"].ToString();
+        lblUser.Text = email;
     }
     protected void btnLogOut_Click(object sender, EventArgs e)
     {
         if (Session["Email"] == null)
         {
-            Response.Redirect("login.aspx"); // to move to the another page
+            Response.Redirect("login.aspx");
         }
         Session["Email"] = null;
-        Response.Redirect("login.aspx"); // to move to the another page
+        Response.Redirect("login.aspx");
     }
 
     protected void btnNewApp_Click(object sender, EventArgs e)
     {
-        Response.Redirect("NewAppPage.aspx"); // to move to the another page
+        Response.Redirect("NewAppPage.aspx");
     }
 
     protected void lbtnUpdtApp_Click(object sender, EventArgs e)
