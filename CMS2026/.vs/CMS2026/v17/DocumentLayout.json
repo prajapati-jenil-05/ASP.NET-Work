@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|d:\\window application\\asp.net-work\\cms2026\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|solutionrelative:controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|d:\\window application\\asp.net-work\\cms2026\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|d:\\window application\\asp.net-work\\cms2026\\views\\loan\\discardapplication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|solutionrelative:views\\loan\\discardapplication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|d:\\window application\\asp.net-work\\cms2026\\views\\loan\\updateapplication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|solutionrelative:views\\loan\\updateapplication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|d:\\window application\\asp.net-work\\cms2026\\views\\loan\\newapplication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|solutionrelative:views\\loan\\newapplication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|d:\\window application\\asp.net-work\\cms2026\\views\\loan\\viewall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|solutionrelative:views\\loan\\viewall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|d:\\window application\\asp.net-work\\cms2026\\cms2026.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|solutionrelative:cms2026.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|d:\\window application\\asp.net-work\\cms2026\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|d:\\window application\\asp.net-work\\cms2026\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|d:\\window application\\asp.net-work\\cms2026\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|d:\\window application\\asp.net-work\\cms2026\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|d:\\window application\\asp.net-work\\cms2026\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiscardApplication.cshtml",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Loan\\DiscardApplication.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loan\\DiscardApplication.cshtml",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Loan\\DiscardApplication.cshtml",
+              "RelativeToolTip": "Views\\Loan\\DiscardApplication.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-30T05:35:56.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewApplication.cshtml",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Loan\\NewApplication.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loan\\NewApplication.cshtml",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Loan\\NewApplication.cshtml",
+              "RelativeToolTip": "Views\\Loan\\NewApplication.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-30T05:34:56.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewAll.cshtml",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Loan\\ViewAll.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loan\\ViewAll.cshtml",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Loan\\ViewAll.cshtml",
+              "RelativeToolTip": "Views\\Loan\\ViewAll.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-30T05:21:05.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoanController.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "Controllers\\LoanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:25:10.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-30T04:45:01.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateApplication.cshtml",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Loan\\UpdateApplication.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loan\\UpdateApplication.cshtml",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Loan\\UpdateApplication.cshtml",
+              "RelativeToolTip": "Views\\Loan\\UpdateApplication.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-30T05:35:25.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-30T04:46:07.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-30T04:46:03.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:45:35.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CMS2026",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\CMS2026.csproj",
+              "RelativeDocumentMoniker": "CMS2026.csproj",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\CMS2026.csproj",
+              "RelativeToolTip": "CMS2026.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-30T04:48:29.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:45:25.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-30T04:46:08.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
