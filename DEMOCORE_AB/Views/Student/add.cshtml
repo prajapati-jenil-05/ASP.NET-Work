@@ -1,0 +1,39 @@
+﻿@model DEMOCORE_AB.Models.Student
+
+@{
+    ViewData["Title"] = "Add Student";
+}
+
+<h2 class="text-center mt-3">Add Student</h2>
+
+<hr />
+
+<form asp-action="Add" method="post" class="container mt-4 col-md-6">
+
+    <!-- Student Name -->
+    <div class="mb-3">
+        <label asp-for="STUDENT_NAME" class="form-label"></label>
+        <input asp-for="STUDENT_NAME" class="form-control" placeholder="Enter Student Name" />
+        <span asp-validation-for="STUDENT_NAME" class="text-danger"></span>
+    </div>
+
+    <!-- Student Branch -->
+    <div class="mb-3">
+        <label asp-for="STUDENT_BRANCH" class="form-label"></label>
+        <input asp-for="STUDENT_BRANCH" class="form-control" placeholder="Enter Branch" />
+        <span asp-validation-for="STUDENT_BRANCH" class="text-danger"></span>
+    </div>
+
+    <!-- Buttons -->
+    <div class="mb-3">
+        <button type="submit" class="btn btn-success">Add Student</button>
+        <a asp-action="Index" class="btn btn-secondary ms-2">Back</a>
+    </div>
+
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
