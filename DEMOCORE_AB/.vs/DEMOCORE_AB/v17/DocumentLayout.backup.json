@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|d:\\window application\\asp.net-work\\democore_ab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|d:\\window application\\asp.net-work\\democore_ab\\database\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|solutionrelative:database\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|d:\\window application\\asp.net-work\\democore_ab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|d:\\window application\\asp.net-work\\democore_ab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|d:\\window application\\asp.net-work\\democore_ab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|d:\\window application\\asp.net-work\\democore_ab\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +50,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T04:57:16.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "studentdb.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\database\\studentdb.cs",
+              "RelativeDocumentMoniker": "database\\studentdb.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\database\\studentdb.cs",
+              "RelativeToolTip": "database\\studentdb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:49:20.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -55,20 +89,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T05:59:57.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "add.cshtml",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\Views\\Student\\add.cshtml",
               "RelativeDocumentMoniker": "Views\\Student\\add.cshtml",
@@ -81,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
@@ -94,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "DEMOCORE_AB.csproj",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\DEMOCORE_AB.csproj",
               "RelativeDocumentMoniker": "DEMOCORE_AB.csproj",
@@ -107,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",

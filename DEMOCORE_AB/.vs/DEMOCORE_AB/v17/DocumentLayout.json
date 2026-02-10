@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|d:\\window application\\asp.net-work\\democore_ab\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|d:\\window application\\asp.net-work\\democore_ab\\database\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|solutionrelative:database\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|solutionrelative:views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|d:\\window application\\asp.net-work\\democore_ab\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|d:\\window application\\asp.net-work\\democore_ab\\democore_ab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4267F564-6BDD-40D5-B704-842EC89CC452}|DEMOCORE_AB.csproj|solutionrelative:democore_ab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,19 +51,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-10T04:57:16.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "studentdb.cs",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\database\\studentdb.cs",
               "RelativeDocumentMoniker": "database\\studentdb.cs",
@@ -76,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -84,12 +71,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T04:42:00.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T04:42:00.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -97,12 +83,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T05:59:57.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T05:59:57.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "add.cshtml",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\Views\\Student\\add.cshtml",
               "RelativeDocumentMoniker": "Views\\Student\\add.cshtml",
@@ -110,12 +95,36 @@
               "RelativeToolTip": "Views\\Student\\add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-28T05:39:57.167Z",
+              "WhenOpened": "2026-01-28T05:39:57.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:18:49.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T04:57:16.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
@@ -123,8 +132,7 @@
               "RelativeToolTip": "Controllers\\StudentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T05:25:15.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T05:25:15.878Z"
             },
             {
               "$type": "Document",
@@ -136,21 +144,7 @@
               "RelativeToolTip": "DEMOCORE_AB.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-28T05:19:51.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Models\\Student.cs",
-              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\DEMOCORE_AB\\Models\\Student.cs",
-              "RelativeToolTip": "Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T05:18:49.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T05:19:51.123Z"
             }
           ]
         }
