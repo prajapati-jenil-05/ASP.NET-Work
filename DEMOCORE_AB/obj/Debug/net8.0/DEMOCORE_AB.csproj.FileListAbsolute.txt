@@ -26,7 +26,6 @@ D:\Window Application\ASP.NET-Work\DEMOCORE_AB\obj\Debug\net8.0\staticwebassets.
 D:\Window Application\ASP.NET-Work\DEMOCORE_AB\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\Window Application\ASP.NET-Work\DEMOCORE_AB\obj\Debug\net8.0\staticwebassets.development.json
 D:\Window Application\ASP.NET-Work\DEMOCORE_AB\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Window Application\ASP.NET-Work\DEMOCORE_AB\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Window Application\ASP.NET-Work\DEMOCORE_AB\obj\Debug\net8.0\DEMOCORE_AB.dll
 D:\Window Application\ASP.NET-Work\DEMOCORE_AB\obj\Debug\net8.0\refint\DEMOCORE_AB.dll
 D:\Window Application\ASP.NET-Work\DEMOCORE_AB\obj\Debug\net8.0\DEMOCORE_AB.pdb
@@ -254,3 +253,4 @@ D:\Window Application\ASP.NET-Work\DEMOCORE_AB\bin\Debug\net8.0\runtimes\win\lib
 D:\Window Application\ASP.NET-Work\DEMOCORE_AB\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\Window Application\ASP.NET-Work\DEMOCORE_AB\obj\Debug\net8.0\DEMOCORE_AB.csproj.AssemblyReference.cache
 D:\Window Application\ASP.NET-Work\DEMOCORE_AB\obj\Debug\net8.0\DEMOCORE.74D4B3FE.Up2Date
+D:\Window Application\ASP.NET-Work\DEMOCORE_AB\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

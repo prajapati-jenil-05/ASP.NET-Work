@@ -1,0 +1,39 @@
+@model IEnumerable<DEMOCORE_AB.Models.Student>
+
+@{
+    ViewData["Title"] = "Student List";
+}
+
+<h2 class="text-center mt-3">Student List</h2>
+
+<p>
+    <a asp-action="add" class="btn btn-primary">Create New</a>
+</p>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.STUDENT_NAME)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.STUDENT_BRANCH)
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.STUDENT_NAME)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.STUDENT_BRANCH)
+            </td>
+            <td>
+                <!-- Add edit/delete buttons here if needed -->
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

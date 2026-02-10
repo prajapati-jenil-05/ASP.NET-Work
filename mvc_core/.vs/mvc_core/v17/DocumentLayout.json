@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Window Application\\ASP.NET-Work\\mvc_core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C34D7B-C851-497A-BAB0-FFA4431CB51A}|mvc_core.csproj|d:\\window application\\asp.net-work\\mvc_core\\migrations\\20260210050933_s1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C34D7B-C851-497A-BAB0-FFA4431CB51A}|mvc_core.csproj|solutionrelative:migrations\\20260210050933_s1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C34D7B-C851-497A-BAB0-FFA4431CB51A}|mvc_core.csproj|d:\\window application\\asp.net-work\\mvc_core\\database\\student_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C34D7B-C851-497A-BAB0-FFA4431CB51A}|mvc_core.csproj|solutionrelative:database\\student_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C34D7B-C851-497A-BAB0-FFA4431CB51A}|mvc_core.csproj|d:\\window application\\asp.net-work\\mvc_core\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C34D7B-C851-497A-BAB0-FFA4431CB51A}|mvc_core.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C34D7B-C851-497A-BAB0-FFA4431CB51A}|mvc_core.csproj|d:\\window application\\asp.net-work\\mvc_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C34D7B-C851-497A-BAB0-FFA4431CB51A}|mvc_core.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C34D7B-C851-497A-BAB0-FFA4431CB51A}|mvc_core.csproj|d:\\window application\\asp.net-work\\mvc_core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3C34D7B-C851-497A-BAB0-FFA4431CB51A}|mvc_core.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260210050933_S1.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\mvc_core\\Migrations\\20260210050933_S1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260210050933_S1.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\mvc_core\\Migrations\\20260210050933_S1.cs",
+              "RelativeToolTip": "Migrations\\20260210050933_S1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:54:24.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\mvc_core\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\mvc_core\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:45:29.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student_db.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\mvc_core\\database\\student_db.cs",
+              "RelativeDocumentMoniker": "database\\student_db.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\mvc_core\\database\\student_db.cs",
+              "RelativeToolTip": "database\\student_db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:30:38.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\mvc_core\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\mvc_core\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:28:07.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\mvc_core\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\mvc_core\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T05:25:26.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
