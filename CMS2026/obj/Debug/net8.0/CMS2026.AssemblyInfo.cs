@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CMS2026")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+911f2258abb7532158ee9fefe278c46b99e48588")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+716f452b16aeb308f5fde760274966dc50fa428c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CMS2026")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CMS2026")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

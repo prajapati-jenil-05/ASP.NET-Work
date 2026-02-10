@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "D:\\Window Application\\ASP.NET-Work\\StudentRegistration\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4746F3B6-DEEB-4425-AFA6-16E927BD08B1}|StudentRegistration.csproj|D:\\Window Application\\ASP.NET-Work\\StudentRegistration\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4746F3B6-DEEB-4425-AFA6-16E927BD08B1}|StudentRegistration.csproj|d:\\window application\\asp.net-work\\studentregistration\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4746F3B6-DEEB-4425-AFA6-16E927BD08B1}|StudentRegistration.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4746F3B6-DEEB-4425-AFA6-16E927BD08B1}|StudentRegistration.csproj|d:\\window application\\asp.net-work\\studentregistration\\views\\student\\deletestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4746F3B6-DEEB-4425-AFA6-16E927BD08B1}|StudentRegistration.csproj|D:\\Window Application\\ASP.NET-Work\\StudentRegistration\\views\\student\\deletestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4746F3B6-DEEB-4425-AFA6-16E927BD08B1}|StudentRegistration.csproj|solutionrelative:views\\student\\deletestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4746F3B6-DEEB-4425-AFA6-16E927BD08B1}|StudentRegistration.csproj|d:\\window application\\asp.net-work\\studentregistration\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4746F3B6-DEEB-4425-AFA6-16E927BD08B1}|StudentRegistration.csproj|D:\\Window Application\\ASP.NET-Work\\StudentRegistration\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4746F3B6-DEEB-4425-AFA6-16E927BD08B1}|StudentRegistration.csproj|solutionrelative:views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -59,7 +59,8 @@
               "RelativeToolTip": "Models\\student_model.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T05:30:16.69Z"
+              "WhenOpened": "2026-01-21T05:30:16.69Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -95,7 +96,7 @@
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
               "ToolTip": "D:\\Window Application\\ASP.NET-Work\\StudentRegistration\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCEAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA/wCEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T05:29:58.832Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DEMOCORE_AB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c44d68f04ca4dea69d93532ab9a96d114d4ffad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+716f452b16aeb308f5fde760274966dc50fa428c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DEMOCORE_AB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DEMOCORE_AB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

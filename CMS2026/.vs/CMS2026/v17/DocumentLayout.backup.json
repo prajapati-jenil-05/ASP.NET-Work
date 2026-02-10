@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|d:\\window application\\asp.net-work\\cms2026\\models\\loanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|solutionrelative:models\\loanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|d:\\window application\\asp.net-work\\cms2026\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFE154CE-C5AF-4EAF-87ED-12D956130472}|CMS2026.csproj|solutionrelative:controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "LoanModel.cs",
+              "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Models\\LoanModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoanModel.cs",
+              "ToolTip": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Models\\LoanModel.cs",
+              "RelativeToolTip": "Models\\LoanModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:55:11.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DiscardApplication.cshtml",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Loan\\DiscardApplication.cshtml",
               "RelativeDocumentMoniker": "Views\\Loan\\DiscardApplication.cshtml",
@@ -74,12 +91,11 @@
               "RelativeToolTip": "Views\\Loan\\DiscardApplication.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T05:35:56.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T05:35:56.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "NewApplication.cshtml",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Loan\\NewApplication.cshtml",
               "RelativeDocumentMoniker": "Views\\Loan\\NewApplication.cshtml",
@@ -87,12 +103,11 @@
               "RelativeToolTip": "Views\\Loan\\NewApplication.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T05:34:56.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T05:34:56.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ViewAll.cshtml",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Loan\\ViewAll.cshtml",
               "RelativeDocumentMoniker": "Views\\Loan\\ViewAll.cshtml",
@@ -100,12 +115,11 @@
               "RelativeToolTip": "Views\\Loan\\ViewAll.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T05:21:05.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T05:21:05.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoanController.cs",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Controllers\\LoanController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoanController.cs",
@@ -113,12 +127,11 @@
               "RelativeToolTip": "Controllers\\LoanController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T05:25:10.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T05:25:10.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -126,12 +139,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T04:45:01.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T04:45:01.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UpdateApplication.cshtml",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Loan\\UpdateApplication.cshtml",
               "RelativeDocumentMoniker": "Views\\Loan\\UpdateApplication.cshtml",
@@ -139,12 +151,11 @@
               "RelativeToolTip": "Views\\Loan\\UpdateApplication.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T05:35:25.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T05:35:25.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
@@ -152,12 +163,11 @@
               "RelativeToolTip": "Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T04:46:07.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T04:46:07.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -165,12 +175,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T04:46:03.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T04:46:03.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -178,25 +187,23 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T04:45:35.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T04:45:35.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CMS2026",
+              "DocumentIndex": 7,
+              "Title": "CMS2026.csproj",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\CMS2026.csproj",
               "RelativeDocumentMoniker": "CMS2026.csproj",
               "ToolTip": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\CMS2026.csproj",
               "RelativeToolTip": "CMS2026.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-30T04:48:29.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T04:48:29.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -204,12 +211,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T04:45:25.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T04:45:25.658Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\Window Application\\ASP.NET-Work\\CMS2026\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -217,8 +223,7 @@
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T04:46:08.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T04:46:08.662Z"
             }
           ]
         }

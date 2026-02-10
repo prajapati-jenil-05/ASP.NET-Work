@@ -1,7 +1,16 @@
+using DEMOCORE_AB.database;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+
+//REGISTERING THE CONNECTION STRING
+builder.Services.AddDbContext<studentdb>
+    (options=>options.UseSqlServer(builder.Configuration.GetConnectionString("con")));
+
 
 var app = builder.Build();
 
